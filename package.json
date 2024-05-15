@@ -1,0 +1,22 @@
+{
+  "name": "test-blank-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aws-amplify": "^5.3.12-api-v6-models.5d6fe9b.0"
+  },
+  "devDependencies": {
+    "@aws-amplify/amplify-api-next-alpha": "^0.4.0",
+    "@aws-amplify/backend": "^1.0.0",
+    "@aws-amplify/backend-auth": "^1.0.0",
+    "@aws-amplify/backend-cli": "^1.0.0",
+    "typescript": "^5.2.2"
+  }
+}
